@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ryan Wickramaratne</h1>
 <h3 align="center">Undergraduate in IT | Proficient in Python, Java, C#, & Web Development | Seeking Internship Opportunities | Passionate about Technology & Continuous Learning</h3>
 
-<img align="right" alt="Coding illustration" width="400" src="https://i.postimg.cc/zGSW06Tt/Passport-Size-Photo.jpg">
+<img align="right" alt="Coding illustration" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDdrYTI5aXp4aTg4eGJ2dzN5enUzYXJzdnFnMXB4cGp0dXB0NHNrZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🌱 I’m currently learning **Node.js and diving deeper into backend development and server-side scripting**
 
